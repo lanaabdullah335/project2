@@ -11,7 +11,7 @@ package project2;
 public class signup extends javax.swing.JFrame {
 
     /**
-     * Creates new form signup
+     * Creates new form 
      */
     public signup() {
         initComponents();
