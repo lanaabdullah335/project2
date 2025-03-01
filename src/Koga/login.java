@@ -1,5 +1,5 @@
 
-package project2;
+package Koga;
 
 
 public class login extends javax.swing.JFrame {
@@ -37,7 +37,7 @@ public class login extends javax.swing.JFrame {
         right.setPreferredSize(new java.awt.Dimension(400, 500));
 
         logo.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
-        logo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/project2/image/logo.png"))); // NOI18N
+        logo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Koga/image/logo.png"))); // NOI18N
 
         javax.swing.GroupLayout rightLayout = new javax.swing.GroupLayout(right);
         right.setLayout(rightLayout);
